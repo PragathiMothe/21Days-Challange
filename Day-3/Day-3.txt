@@ -1,0 +1,5 @@
+Day-3
+   -installing react Icons ,libraries
+   -Folder structure ,Components
+   -props
+Assignment: Worked on LinkedIn clone 

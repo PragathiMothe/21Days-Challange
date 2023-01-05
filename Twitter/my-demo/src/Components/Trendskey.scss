@@ -1,0 +1,33 @@
+.keywords{
+    position: fixed;
+    top: 80px;
+    right: 0;
+    width: 23%;
+    padding: 20px 20px;
+    
+  
+  .key{
+    background: #f5f8fe;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  &__heading{
+    font-size: 20px;
+    border-bottom: 1px solid #e6ecf0;
+    padding-bottom: 8px;
+  }
+  .country{
+    font-size: 14px;
+    /* color: silver; */
+    font-weight: 300;
+    margin: 10px 0px;
+  }
+  &__name{
+    margin-bottom: 8px;
+  }
+  &__tweets{
+    margin-top: 7px;
+    /* color: silver; */
+    font-size: 14px;
+  }
+}

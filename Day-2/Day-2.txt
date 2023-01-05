@@ -1,0 +1,9 @@
+Day-2 Challenge 
+
+1. Create New React App 
+2. Folder Architecture
+3. Components in React
+    -Functional components
+    -Class Components
+4.Extensions download-React ES7+/Redux
+                     -Auto Close Tag
