@@ -5,7 +5,7 @@ const Trendskey = () => {
         {
             id:1,
             country:"Trending in india",
-            keyword:"Delhi",
+            keyword:"DELHI",
             totalkeyword:"200k"
         },
         {
@@ -19,7 +19,14 @@ const Trendskey = () => {
             country:"Trending in india",
             keyword:"BCCI",
             totalkeyword:"400k"
+        },
+        {
+            id:4,
+            country:" Sports:Trending in india",
+            keyword:"#SURYAKUMARYADAV",
+            totalkeyword:"2,189 Tweets"
         }
+        
     ])
   return (
     <div className='keywords'>

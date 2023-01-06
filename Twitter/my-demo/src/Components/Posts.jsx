@@ -25,17 +25,17 @@ const Posts = () => {
             It was curtains to vivo Pro Kabaddi Season 9 on Saturday, December 17 with Jaipur Pink Panthers clinching a close win against Puneri Paltan to become the two-time vivo PKL champions....</p>
             </div>
             <div className="posts_details img">
-              <img src='postsimg.jpg' alt='posts image'/>
+              <img src='https://media3.giphy.com/media/TgxMmAUnaWyauVtYWn/giphy.gif' alt='posts image'/>
             </div>
 
             
-            <div className="posts1_details">
-            <div className="posts1_details_msg">
-            Prime Minister #NarendraModi will virtually address the 108th Indian Science Congress on January 3, which is expected to focus on ways to increase the representation of women in STEM fields and provide them with equal access.
+            <div className="posts_details">
+            <div className="posts_details_msg">
+            <p>Prime Minister #NarendraModi will virtually address the 108th Indian Science Congress on January 3, which is expected to focus on ways to increase the representation of women in STEM fields and provide them with equal access.</p>
             
             </div>
-            <div className="posts1_details img">
-              <img src='pm.jpg' alt='posts image'/>
+            <div className="posts_details img">
+              <img src='https://pbs.twimg.com/tweet_video_thumb/DhWZBYUXcAAcKQp.jpg' alt='posts image'/>
             </div>
             </div>
             <div className='reaction'>

@@ -1,5 +1,5 @@
 .keywords{
-    position: fixed;
+     position: fixed;
     top: 80px;
     right: 0;
     width: 23%;
@@ -12,14 +12,17 @@
     border-radius: 5px;
   }
   &__heading{
-    font-size: 20px;
+    font-size: 25px;
     border-bottom: 1px solid #e6ecf0;
     padding-bottom: 8px;
   }
+  h5{ 
+    font-size: 22px;
+  }
   .country{
-    font-size: 14px;
+    font-size: 18px;
     /* color: silver; */
-    font-weight: 300;
+    font-weight: 400;
     margin: 10px 0px;
   }
   &__name{

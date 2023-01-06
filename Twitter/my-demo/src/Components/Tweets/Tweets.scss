@@ -1,12 +1,13 @@
-.posts{
-    width: 50%;
-    margin-left: 25%;
-    border: 1px solid #e6ecf0;
-  &__posts_home{
+.posts {
+  width: 50%;
+  margin-left: 25%;
+  border: 1px solid #e6ecf0;
+
+  &__posts_home {
     width: 100%;
-   /* position: fixed;  */
+    /* position: fixed;  */
     padding: 15px;
     font-weight: 400;
-    border-bottom: 1px solid #e6ecf0 ;
+    border-bottom: 1px solid #e6ecf0;
   }
 }
